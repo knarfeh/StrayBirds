@@ -1,5 +1,5 @@
-username: minixalpha
-baseurl: /StrayBirds
+username: knarfeh
+baseurl: /blog
 markdown: redcarpet
 safe: false
 pygments: true
